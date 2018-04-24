@@ -1,0 +1,9 @@
+{
+    "name": "cldocex-composite_knowledge",
+    "require": {
+        "cakephp/cakephp": "2.10.*"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}
